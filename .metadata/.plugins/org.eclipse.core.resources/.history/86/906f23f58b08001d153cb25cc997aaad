@@ -1,0 +1,12 @@
+package com.example.demo1.vo;
+
+public class EnterpriseMemberVo {
+    private String entrprsMberId;
+    private String entrprsSeCode;
+    private String bizrno;
+    private String jurirno;
+    private String cmpnyNm;
+    private String cxfc;
+    private String zip;
+    private String adres;
+}

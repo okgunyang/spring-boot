@@ -1,0 +1,12 @@
+package com.example.demo1.vo;
+
+public class MemberVO {
+    private String userid;
+    private String pwd;
+    private String name;
+    private String email;
+    private String tel;
+    private String birth;
+    
+    
+}
